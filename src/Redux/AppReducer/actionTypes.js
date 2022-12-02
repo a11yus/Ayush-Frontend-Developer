@@ -1,0 +1,1 @@
+export const GET_CAPSULES_DATA = 'GET_CAPSULES_DATA';
